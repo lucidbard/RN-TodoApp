@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/contactCards/./fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "9e67a97da6131dc2aeb2",
-    "url": "/contactCards/static/js/app.69a89fec.chunk.js"
+    "revision": "e22c7931e928a5856d66",
+    "url": "/contactCards/static/js/app.855389e7.chunk.js"
   },
   {
     "revision": "98c281034a4ccd2707f8",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/contactCards/serve.json"
   },
   {
-    "revision": "11e0f07b3b95e5eba906",
-    "url": "/contactCards/static/js/2.5719f648.chunk.js"
+    "revision": "22292d0c7670eae88a74",
+    "url": "/contactCards/static/js/2.ce9751aa.chunk.js"
   },
   {
-    "revision": "5a293a273bee8d740a045d9922b9a9ae",
-    "url": "/contactCards/./fonts/MaterialCommunityIcons.ttf"
+    "revision": "48c7ed4e7da9792af288a60d7242d615",
+    "url": "/contactCards/expo-service-worker.js"
   },
   {
     "revision": "b2e0fc821c6886fb3940f85a3320003e",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/contactCards/manifest.json"
   },
   {
-    "revision": "4d15687dd7ffe0c26bc25ab8e90840a8",
+    "revision": "9c62609a2906567b94f716bd3da55532",
     "url": "/contactCards/index.html"
   },
   {
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/contactCards/favicon-16.png"
   },
   {
-    "revision": "48c7ed4e7da9792af288a60d7242d615",
-    "url": "/contactCards/expo-service-worker.js"
+    "revision": "5a293a273bee8d740a045d9922b9a9ae",
+    "url": "/contactCards/./fonts/MaterialCommunityIcons.ttf"
   },
   {
     "revision": "e20945d7c929279ef7a6f1db184a4470",

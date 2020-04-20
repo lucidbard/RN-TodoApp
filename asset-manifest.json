@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/contactCards/static/js/app.69a89fec.chunk.js",
-    "app.js.map": "/contactCards/static/js/app.69a89fec.chunk.js.map",
+    "app.js": "/contactCards/static/js/app.855389e7.chunk.js",
+    "app.js.map": "/contactCards/static/js/app.855389e7.chunk.js.map",
     "runtime~app.js": "/contactCards/static/js/runtime~app.686ffd6e.js",
     "runtime~app.js.map": "/contactCards/static/js/runtime~app.686ffd6e.js.map",
-    "static/js/2.5719f648.chunk.js": "/contactCards/static/js/2.5719f648.chunk.js",
-    "static/js/2.5719f648.chunk.js.map": "/contactCards/static/js/2.5719f648.chunk.js.map",
+    "static/js/2.ce9751aa.chunk.js": "/contactCards/static/js/2.ce9751aa.chunk.js",
+    "static/js/2.ce9751aa.chunk.js.map": "/contactCards/static/js/2.ce9751aa.chunk.js.map",
     "fonts/AntDesign.ttf": "/contactCards/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/contactCards/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/contactCards/./fonts/Feather.ttf",
@@ -31,7 +31,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.686ffd6e.js",
-    "static/js/2.5719f648.chunk.js",
-    "static/js/app.69a89fec.chunk.js"
+    "static/js/2.ce9751aa.chunk.js",
+    "static/js/app.855389e7.chunk.js"
   ]
 }
