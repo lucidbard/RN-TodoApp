@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/contactCards/precache-manifest.a3a4e6251b5a972cacc7f446523d68a7.js"
+  "/RN-TodoApp/precache-manifest.bf6f143018a8f89b0857ad75c87c9dc2.js"
 );
 
 workbox.skipWaiting();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("\\contactCards\\index.html", {
+workbox.routing.registerNavigationRoute("\\RN-TodoApp\\index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
