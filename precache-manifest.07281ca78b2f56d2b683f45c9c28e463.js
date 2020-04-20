@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/contactCards/./fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "257c85dead9ae4aff5bf",
-    "url": "/contactCards/static/js/app.0e5db635.chunk.js"
+    "revision": "4b9d78a292e883daedb3",
+    "url": "/contactCards/static/js/app.a8a8e2e1.chunk.js"
   },
   {
     "revision": "98c281034a4ccd2707f8",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/contactCards/manifest.json"
   },
   {
-    "revision": "1dfb6b7267f4a45ba28a433726c7a74b",
+    "revision": "0d57b266a6c6e722e5e173973b62d07d",
     "url": "/contactCards/index.html"
   },
   {
